@@ -1,29 +1,29 @@
-div align="center">
+<div align="center">
 
 <!-- ===================== HERO BANNER ===================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Miriyala%20Maanas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20for%20the%20Web&descAlignY=58&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Miriyala%20Maanas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20for%20the%20Web&descAlignY=58&descSize=18" alt="Miriyala Maanas Header Banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Turning+Ideas+Into+Scalable+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Turning+Ideas+Into+Scalable+Products;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/maanas-miriyala">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:maanasmiriyala23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/marvelmaanas2548-alt">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=marvelmaanas2548-alt&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS)
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=marvelmaanas2548-alt&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=for-the-badge" alt="Open to Work"/>
 
 </div>
 
@@ -31,17 +31,17 @@ div align="center">
 
 <!-- ===================== ABOUT ME ===================== -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+## 👋 About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation"/>
 
-- ð **Fresher** Full Stack Web Developer based in **India**
-- ð» Passionate about building **scalable, user-focused web applications**
-- ð Specialize in the **MERN Stack** with strong fundamentals in modern JavaScript & TypeScript
-- ð± Deeply curious about **AI, System Design, Docker, AWS & DevOps**
-- ð¤ Eager to collaborate on **real-world projects** and open-source contributions
-- â¡ Fun fact: I debug better with coffee â and lo-fi beats
-- ð« Reach me at **maanasmiriyala23@gmail.com**
+* 🎓 **B.Tech student** and aspiring **Software Engineer** based in India
+* 💻 Passionate about building **scalable, user-focused web applications**
+* 🚀 Interested in **Python, Web Development, Artificial Intelligence, and AI-powered applications**
+* 🌱 Currently exploring **Generative AI, API Integration, Backend Development, and AI Assistants**
+* 🤝 Interested in collaborating on **real-world projects and open-source contributions**
+* ⚡ Always learning, building, and improving
+* 📫 Reach me at **[maanasmiriyala23@gmail.com](mailto:maanasmiriyala23@gmail.com)**
 
 <br clear="right"/>
 
@@ -49,25 +49,25 @@ div align="center">
 
 <!-- ===================== TECH STACK ===================== -->
 
-## ð§° Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-**Languages & Markup**
+### Languages & Web
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" alt="Languages and Web Technologies"/>
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,react,nodejs,express,bootstrap,tailwind&theme=dark" alt="Frameworks and Libraries"/>
 
-**Databases**
+### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb&theme=dark" alt="Databases"/>
 
-**Tools & Platforms**
+### AI & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark" alt="Tools and Platforms"/>
 
 </div>
 
@@ -75,16 +75,17 @@ div align="center">
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-## ð GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marvelmaanas2548-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=marvelmaanas2548-alt&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=marvelmaanas2548-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
-<br/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=marvelmaanas2548-alt&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelmaanas2548-alt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br/><br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvelmaanas2548-alt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -92,84 +93,108 @@ div align="center">
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
-## ð Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marvelmaanas2548-alt&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marvelmaanas2548-alt&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 <br/><br/>
 
-<!-- Contribution Snake â requires GitHub Action to generate snake.svg -->
-<img src="https://raw.githubusercontent.com/marvelmaanas2548-alt/marvelmaanas2548-alt/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation placeholder" />
+<img src="https://raw.githubusercontent.com/marvelmaanas2548-alt/marvelmaanas2548-alt/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
-
-> ð¡ *Snake animation requires the [platane/snk](https://github.com/Platane/snk) GitHub Action set up on your profile repo to auto-generate `github-contribution-grid-snake-dark.svg`.*
 
 <br/>
 
 <!-- ===================== PROJECTS ===================== -->
 
-## ð Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top">
 
-### ð E-Commerce Platform
-Full-featured online store with cart, auth, payments & admin dashboard.
+<td width="50%" valign="top">
 
-**Tech:** `React` `Node.js` `Express` `MongoDB`
+### 🤖 AI-Powered Personal Finance Assistant
 
-<a href="https://github.com/marvelmaanas2548-alt"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+An AI-powered assistant designed to help users manage and understand their personal finances through intelligent interactions.
 
-</td>
-<td width="33%" valign="top">
+**Tech:** `Python` `Flask` `AI` `REST API` `SQLite`
 
-### ð Task Management App
-Collaborative task tracker with real-time updates and drag-drop boards.
-
-**Tech:** `Next.js` `TypeScript` `MongoDB` `Tailwind`
-
-<a href="https://github.com/marvelmaanas2548-alt"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/marvelmaanas2548-alt">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Project Code"/>
+</a>
 
 </td>
-<td width="33%" valign="top">
 
-### ð Developer Blog Platform
-Markdown-powered blogging platform with auth and comments.
+<td width="50%" valign="top">
 
-**Tech:** `React` `Express` `MySQL` `Bootstrap`
+### 💻 Code Quest
 
-<a href="https://github.com/marvelmaanas2548-alt"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+An interactive coding platform designed to help users practice programming problems and improve their problem-solving skills.
+
+**Tech:** `HTML` `CSS` `JavaScript` `Python`
+
+<a href="https://github.com/marvelmaanas2548-alt">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Project Code"/>
+</a>
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Machine Translation Using NLP
+
+An NLP-based machine translation system designed to translate text between natural languages using text preprocessing and language modeling techniques.
+
+**Tech:** `Python` `NLP`
+
+<a href="https://github.com/marvelmaanas2548-alt">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Project Code"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Intelligent Weed Detection & Precision Spraying
+
+A deep-learning-based system designed to identify weeds and support precision spraying in agricultural environments.
+
+**Tech:** `Python` `Deep Learning` `Computer Vision`
+
+<a href="https://github.com/marvelmaanas2548-alt">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Project Code"/>
+</a>
+
+</td>
+
 </tr>
 </table>
 
 </div>
 
-> ð *Replace project links and demo URLs above with your actual repositories.*
-
 <br/>
 
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
-## ð± Currently Learning
+## 🌱 Currently Learning
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-4B32C3?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-EE0000?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Generative_AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/System_Design-4B32C3?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/DevOps-EE0000?style=for-the-badge&logo=githubactions&logoColor=white" alt="DevOps"/>
 
 </div>
 
@@ -177,11 +202,11 @@ Markdown-powered blogging platform with auth and comments.
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
 
-## ð Achievements & Badges
+## 🏆 Achievements & Badges
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=marvelmaanas2548-alt&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10)
+<img src="https://github-profile-trophy.vercel.app/?username=marvelmaanas2548-alt&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
@@ -189,23 +214,24 @@ Markdown-powered blogging platform with auth and comments.
 
 <!-- ===================== CONTACT ===================== -->
 
-## ð¬ Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
 
-I'm actively looking for **entry-level Full Stack Developer opportunities** â let's build something great together.
+I'm actively looking for **entry-level Software Developer opportunities** and opportunities to work on real-world projects.
+
+<br/><br/>
 
 <a href="https://github.com/marvelmaanas2548-alt">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/maanas-miriyala">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+
 <a href="mailto:maanasmiriyala23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -216,8 +242,8 @@ I'm actively looking for **entry-level Full Stack Developer opportunities** â
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer"/>
 
-**â­ From [marvelmaanas2548-alt](https://github.com/marvelmaanas2548-alt) â Thanks for stopping by!**
+⭐ **Thanks for visiting my profile!**
 
 </div>
